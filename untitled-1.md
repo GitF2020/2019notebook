@@ -1,7 +1,3 @@
----
-description: cv_bridge API
----
-
 # 2. ROS下调用OpenCV
 
 ## 
