@@ -1,4 +1,8 @@
-# 4. TF
+# 4. TF坐标转换
+
+## frame id 
+
+先对ROS中的坐标简要说明，ROS的坐标通过 / tf topic 来管理，tf是一个多叉树结构，每一个坐标通过一个frame id识别，使用代码来管理tf，所有坐标都是通过 / tf由程序员自己管理。 按照官方指南，tf通过broadcast, listen, add fixed frame。
 
 ## 关于TF 和 在标定板画角点和标1，2，3，4
 
@@ -39,8 +43,6 @@
 ```
 
 ## frame\_id 的作用
-
-先对ROS中的坐标简要说明，ROS的坐标通过 / tf topic 来管理，tf是一个多叉树结构，每一个坐标通过一个frame id识别，使用代码来管理tf，所有坐标都是通过 / tf由程序员自己管理。 按照官方指南，tf通过broadcast, listen, add fixed frame。
 
 ​
 
