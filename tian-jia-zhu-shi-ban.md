@@ -2,7 +2,7 @@
 description: calibrate_kinect_checkerboard
 ---
 
-# 添加注释版
+# calibrate\_kinect\_checkerboard添加注释
 
 {% code-tabs %}
 {% code-tabs-item title="calibrate\_kinect\_checkerboard" %}
