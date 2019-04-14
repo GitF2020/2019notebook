@@ -12,3 +12,8 @@
 * [目标识别代码分析](mu-biao-shi-bie-xue-xi-bao-gao/mu-biao-shi-bie-dai-ma-fen-xi.md)
 * [ssd-mobilenetv1-coco预训练模型](mu-biao-shi-bie-xue-xi-bao-gao/untitled.md)
 
+## IAI Kinect2配置
+
+* [1.ROS坏境配置小问题](iai-kinect2-pei-zhi/1.ros-huai-jing-pei-zhi-xiao-wen-ti.md)
+* [vi/vim 使用](iai-kinect2-pei-zhi/vivim-shi-yong.md)
+
