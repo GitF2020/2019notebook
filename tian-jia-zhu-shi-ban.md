@@ -1,5 +1,11 @@
+---
+description: calibrate_kinect_checkerboard
+---
+
 # 添加注释版
 
+{% code-tabs %}
+{% code-tabs-item title="calibrate\_kinect\_checkerboard" %}
 ```cpp
 /*
  * Copyright (c) 2011, Willow Garage, Inc.
@@ -445,11 +451,13 @@ int main(int argc, char** argv)
   //ROS节点初始化，calibrate_kinect_arm为Publisher的节点名
   ros::init(argc, argv, "calibrate_kinect_arm");
 
-  CalibrateKinectCheckerboard cal;//这里是什么意思？？？类，到进去类看
+  CalibrateKinectCheckerboard cal;//类
   ros::spin();                     //处理节点订阅话题的所有回调函数
 }
 
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
 ```text
 
