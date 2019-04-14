@@ -1,4 +1,14 @@
+---
+description: 和turtlebot_arm_kinect_calibration对比
+---
+
 # 1.	代码对比
+
+{% hint style="info" %}
+ROS标定官方教程                                   [http://wiki.ros.org/turtlebot\_arm\_kinect\_calibration](http://wiki.ros.org/turtlebot_arm_kinect_calibration) turtlebot\_arm\_kinect\_calibration源码        [https://github.com/turtlebot/turtlebot\_arm](https://github.com/turtlebot/turtlebot_arm)
+{% endhint %}
+
+在线代码对比网站                                            [http://tool.oschina.net/diff](http://tool.oschina.net/diff)
 
 ## 
 
